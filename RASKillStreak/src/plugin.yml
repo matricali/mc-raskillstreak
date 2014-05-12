@@ -1,0 +1,4 @@
+name: RASKillStreak
+main: ras.minecraft.plugin.KillStreak.KillStreak
+version: 1.0
+author: Jorge Matricali <jorge.matricali@gmail.com>
