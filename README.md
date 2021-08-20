@@ -1,6 +1,4 @@
-mc-raskillstreak
-================
-
+# mc-raskillstreak
 RASKillStreak - Minecraft Plugin
 by Jorge Matricali <jorge.matricali@gmail.com>
 
